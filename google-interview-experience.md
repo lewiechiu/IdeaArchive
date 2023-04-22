@@ -1,6 +1,13 @@
+# Google Interview Preparation Guide
+
+This post I'll talk about
+
+* How I prepared for the interview before getting an offer at Google.
+* How I would approach each coding interviews.
+
 ## Summary
 
-- Talked about how the interview process at Google is like
+- How to prepare for a coding interview?
 - For software engineers to succeed in Google interviews, one should focus on being flexible and peculiar about details.
 
 ## Context and Background
@@ -13,9 +20,11 @@ I think my background is very similar to the majority of people who tries to get
 
 I don't want to give generic answers like "Just do a lot of Leetcode and you'll succeed" or things like "Go through CTCI and then Leetcode and then XXX and YYY". There are already lots of articles on the internet providing generic content.
 
+I want to give out something different here. I will tell how I prepared with minimal help from others to get into top tech companies. One thing I want to stress here,
+
 > Hard work is a necessity to become good at solving coding interviews, luck is also needed to pass the interview.
 
-To be fair though, a good amount of leetcode is necessary. But after a certain amount, the progress plataus. You won't feel the progress as much as when you started to leetcode. There are an infinite amount of questions out in the world. So, it doesn't make much sense to finish all of the questions. The key point to remember is to capture the essence of how each topic will be asked. For instance, when asked BFS/DFS questions, look for the loop conditions, how to extend to advanced data structures.
+To be fair though, a good amount of leetcode is necessary. But after a certain amount, the progress plataus. You won't feel the progress as much as when you started to leetcode. Just Remember, there are an infinite amount of questions out in the world. So, it doesn't make much sense to finish all of the questions. The key point to remember is to capture the essence of how each topic will be asked. For instance, when asked BFS/DFS questions, look for the loop conditions, how to extend to advanced data structures.
 
 **Follow the same topic**: A general rule of thumb for preparing tech / coding interviews is to do at least 10 on each of the topics appeared in Leetcode. When doing the leetcode questions, make sure you solve the same tag / categories all at once. This will get you a feeling of how the questions may evolve.
 
@@ -31,7 +40,13 @@ Effective coding practices: Make the leetcode process a lot like the actual inte
 
 There are lots of details to focus on here. I'll list o
 
-- Always ask for clarifications and/or speak out about what you "assume" the questions to be.
-- Always write pseudocode and functions.
-- Talk as you write, write as you talk.
-- Don't rush to an answer.
+* Always ask for clarifications and/or speak out about what you "assume" the questions to be.
+* Always write pseudocode and functions.
+* Talk as you write, write as you talk.
+* Don't rush to an answer.
+
+
+## The mentality
+
+Interviewing has lots of aspects in it. Being able to come up with a solution to solve the problem isn't the only aspect that is reviewed. Your communication skills, time management, personality all plays a critical role in geting yourself through the interview. We can't deny the fact that the first few minutes of "First Impression" can have a great influence over the course of the interview process. That being said, I always tell myself not to feel discouraged when a rejection letter arrives. In fact, being reject is a process of getting an offer.
+
